@@ -48,19 +48,32 @@ Techniques:
         Ensuring inactive customers are re-engaged could boost revenue.
 -  Age Group Trends
      1. Claim Amount by Age Group:
-        Adults contribute the highest claim amount (8.8M), followed by Elders (6.4M) and Young Adults (1.7M).
+        Adults contribute the highest claim amount (8.8M)
+        Followed by Elders (6.4M) and Young Adults (1.7M).
         
 ## 4. Recommendations
   1. Claim Process Optimization:
+     
          Investigate the high number of rejected claims and introduce measures to improve approval rates.
-  2. Policy Activity Management:
+
+     
+  3. Policy Activity Management:
+     
          Develop marketing campaigns to re-engage inactive customers.
          Offer customized plans for specific demographics to encourage renewals.
-  3. Product Development:
+
+     
+  5. Product Development:
+     
          Expand offerings in Travel Insurance, which demonstrates strong customer demand and profitability.
-  4. Customer Segmentation:
+     
+  7. Customer Segmentation:
+     
         Tailor marketing strategies to target Adults as they account for the highest claim amounts.
-  5. Efficiency in Pending Claims:
+
+     
+  9. Efficiency in Pending Claims:
+      
         Streamline the claims process, especially for Travel and Health policies, to reduce pending claims.
      
 ## 5. Role of the Data Analyst
