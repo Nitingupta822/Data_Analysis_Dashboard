@@ -41,11 +41,14 @@ The dashboard presents aggregated hotel performance data across different parame
 - **Luxury vs. Business Segments:** Business hotels have slightly lower occupancy rates than luxury properties.
 - **Platform Performance:** Direct offline bookings have the highest ADR, whereas online travel agents (OTAs) contribute lower ADR but higher occupancy rates.
 
-**6. Recommendations**
+**6. DashBoard**
+![Screenshot (15)](https://github.com/user-attachments/assets/7a820df0-7d6e-4ecb-ac66-aaab225bed25)
+
+**7. Recommendations**
 1. **Optimize Pricing Strategy**: Leverage peak occupancy periods to adjust ADR dynamically.
 2. **Enhance Direct Booking Channels**: Invest in marketing to increase direct bookings, which yield higher ADR.
 3. **City-Specific Strategies**: Implement city-focused promotions where occupancy is lower.
 4. **Weekend Packages**: Encourage weekday bookings with discounts or corporate tie-ups.
 
-**7. Conclusion**
+**8. Conclusion**
 This data-driven approach enables hotel operators to refine strategies for revenue maximization and enhanced guest satisfaction. Further granular analysis can help improve forecasting and decision-making.
