@@ -53,28 +53,16 @@ Techniques:
         
 ## 4. Recommendations
   1. Claim Process Optimization:
-     
-         Investigate the high number of rejected claims and introduce measures to improve approval rates.
-
-     
-  3. Policy Activity Management:
-     
-         Develop marketing campaigns to re-engage inactive customers.
-         Offer customized plans for specific demographics to encourage renewals.
-
-     
-  5. Product Development:
-     
-         Expand offerings in Travel Insurance, which demonstrates strong customer demand and profitability.
-     
-  7. Customer Segmentation:
-     
-        Tailor marketing strategies to target Adults as they account for the highest claim amounts.
-
-     
-  9. Efficiency in Pending Claims:
-      
-        Streamline the claims process, especially for Travel and Health policies, to reduce pending claims.
+         -Investigate the high number of rejected claims and introduce measures to improve approval rates.
+  2. Policy Activity Management:
+         -Develop marketing campaigns to re-engage inactive customers.
+         -Offer customized plans for specific demographics to encourage renewals.
+ 3. Product Development:
+         -Expand offerings in Travel Insurance, which demonstrates strong customer demand and profitability.
+ 4. Customer Segmentation:
+         -Tailor marketing strategies to target Adults as they account for the highest claim amounts.
+ 5. Efficiency in Pending Claims:
+         -Streamline the claims process, especially for Travel and Health policies, to reduce pending claims.
      
 ## 5. Role of the Data Analyst
   As a Data Analyst, the following tasks were executed:
