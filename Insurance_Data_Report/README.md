@@ -91,6 +91,7 @@ Techniques:
 
 ## 6. Dashboarg
 ![Prism](https://github.com/user-attachments/assets/b8bf9edc-0204-4d1d-a2f3-922100a4ba2a)
+![Screenshot (21)](https://github.com/user-attachments/assets/64062d2b-00e3-4610-b16e-93210a306e81)
 
 ## 7. Conclusion
 The analysis provides a clear picture of the current state of Prism Insurance's business operations. Implementing the recommendations could lead to increased customer satisfaction, higher revenue, and a streamlined claims process. This project exemplifies the value of data analytics in driving business outcomes.
