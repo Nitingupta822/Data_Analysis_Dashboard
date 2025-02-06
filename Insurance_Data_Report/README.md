@@ -56,7 +56,7 @@ Techniques:
          -Investigate the high number of rejected claims and introduce measures to improve approval rates.
   2. Policy Activity Management:
          -Develop marketing campaigns to re-engage inactive customers.
-         -Offer customized plans for specific demographics to encourage renewals.
+          Offer customized plans for specific demographics to encourage renewals.
  3. Product Development:
          -Expand offerings in Travel Insurance, which demonstrates strong customer demand and profitability.
  4. Customer Segmentation:
