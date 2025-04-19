@@ -3,7 +3,7 @@
 1. Introduction
 In the modern food industry, data analytics plays a pivotal role in understanding customer behavior, improving service delivery, and making data-driven decisions. This project explores a Zomato dataset, which contains restaurant-related data such as location, ratings, cuisines, pricing, and online delivery options. By applying various data analytics techniques, this project aims to extract meaningful insights that can benefit restaurant businesses and platforms like Zomato.
 ---
-2. Objective of the Project
+2. Objective of the Project :
 - The main objectives of this project are:
 
 - To clean and preprocess the dataset.
@@ -12,7 +12,7 @@ In the modern food industry, data analytics plays a pivotal role in understandin
 - To understand the impact and importance of data analytics in the food tech industry.
 
 ---
-3. Dataset Overview
+3. Dataset Overview :
 -The dataset contains information about restaurants listed on Zomato. The key features include:
 
 - Restaurant Name
