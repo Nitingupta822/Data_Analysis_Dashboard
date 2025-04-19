@@ -2,9 +2,10 @@
 
 1. Dataset Summary:
    
-- Total Data Entries: ~6,500+
-- Time Period Covered: Primarily April to September 2014
-- Columns Used: Date/Time, Lat, Lon, Base
+- Total Data Entries: 1156
+- Columns Used: 'START_DATE', 'END_DATE', 'CATEGORY', 'START', 'STOP', 'MILES',
+       'PURPOSE', 'Time', 'Date', 'Hour', 'Day-Night', 'Month', 'Day'.
+  
 ---
 2. Preprocessing:
    
