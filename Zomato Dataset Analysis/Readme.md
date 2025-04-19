@@ -2,9 +2,9 @@
 
 1. Introduction
 In the modern food industry, data analytics plays a pivotal role in understanding customer behavior, improving service delivery, and making data-driven decisions. This project explores a Zomato dataset, which contains restaurant-related data such as location, ratings, cuisines, pricing, and online delivery options. By applying various data analytics techniques, this project aims to extract meaningful insights that can benefit restaurant businesses and platforms like Zomato.
-
+---
 2. Objective of the Project
-The main objectives of this project are:
+- The main objectives of this project are:
 
 To clean and preprocess the dataset.
 
@@ -14,8 +14,9 @@ To uncover patterns and insights related to customer preferences and restaurant 
 
 To understand the impact and importance of data analytics in the food tech industry.
 
+---
 3. Dataset Overview
-The dataset contains information about restaurants listed on Zomato. The key features include:
+-The dataset contains information about restaurants listed on Zomato. The key features include:
 
 Restaurant Name
 
@@ -33,8 +34,10 @@ Aggregate Ratings and Review Counts
 
 Votes and Delivery Status
 
+---
+
 4. Data Cleaning and Preprocessing
-The following steps were carried out:
+-The following steps were carried out:
 
 Removal of null values and duplicates.
 
@@ -46,8 +49,10 @@ Converting numerical columns into appropriate formats.
 
 Removing irrelevant columns such as URL links or redundant identifiers.
 
+---
+
 5. Exploratory Data Analysis (EDA)
-EDA helped in visualizing and understanding the data. Some key analyses included:
+- EDA helped in visualizing and understanding the data. Some key analyses included:
 
 Restaurant Distribution: Most restaurants are from India, especially in cities like New Delhi and Bangalore.
 
@@ -63,6 +68,8 @@ Cuisine Popularity: North Indian and Chinese are the most commonly served cuisin
 
 Visualizations included bar charts, pie charts, heatmaps, and count plots to make the analysis more intuitive.
 
+---
+
 6. Key Insights
 Location-Based Insights: Delhi has the highest number of Zomato-listed restaurants.
 
@@ -71,6 +78,8 @@ Customer Preference: Restaurants with online ordering and table booking generall
 Cost vs Rating: There is no strong correlation, indicating that expensive doesn’t always mean better-rated.
 
 Cuisine Trends: Multi-cuisine restaurants have a broader appeal.
+
+---
 
 7. Role of Data Analytics
 Data analytics plays a crucial role in:
@@ -86,6 +95,8 @@ Operational Decisions: Helping Zomato decide where to promote online delivery or
 Demand Forecasting: Using historical data to predict food trends and high-demand locations.
 
 Data analytics transforms raw restaurant data into actionable business intelligence that benefits both platforms and users.
+
+---
 
 8. Conclusion
 This project demonstrates how data analytics is a powerful tool in the restaurant and food delivery industry. It provides valuable insights into customer behavior, restaurant performance, and market trends. Leveraging these insights helps businesses make informed decisions, enhance user experience, and stay competitive in a rapidly evolving market.
